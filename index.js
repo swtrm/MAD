@@ -12,4 +12,4 @@ import ex6 from './ex.6';
 import ex7 from './ex7.tsx';
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => ex7);
+AppRegistry.registerComponent(appName, () => ex);
