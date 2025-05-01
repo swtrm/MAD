@@ -22,7 +22,7 @@ const ex = () => {
       <View style={styles.card}>
         <Image
           style={styles.profileImage}
-          source={require('./assets/me.jpg')}
+          source={require('./assets/Camera.png')}
         />
         <Text style={styles.name}>Mait Swarsh</Text>
         <Text style={styles.email}>SwarshMait@gmail.com</Text>
